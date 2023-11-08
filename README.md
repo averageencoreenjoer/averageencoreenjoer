@@ -1,4 +1,4 @@
-[![Header](https://github.com/averageencoreenjoer/wannacryqj/blob/main/2023-11-08%2015.29.03.jpg)]
+![Header](https://github.com/averageencoreenjoer/wannacryqj/blob/main/2023-11-08%2015.29.03.jpg)
 
 ## Kishko Roman Dmitrievich, programmer from St. Petersburg
 
