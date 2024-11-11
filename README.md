@@ -1,4 +1,3 @@
-![Header]
 
 ## Kishko Roman Dmitrievich, programmer from St. Petersburg
 
