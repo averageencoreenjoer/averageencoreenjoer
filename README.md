@@ -1,5 +1,5 @@
 
-## Kishko Roman Dmitrievich, programmer from St. Petersburg
+## not polputi, programmer from St. Petersburg
 
 ### Languages and tools I work with
 
