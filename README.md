@@ -33,6 +33,12 @@ I'm a backend-focused **Python developer** with over 3 years of experience build
 
 ---
 
+## 📊 Language Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=averageencoreenjoer&layout=compact&theme=tokyonight)
+
+---
+
 ## 🌍 Currently
 
 - 🚀 Building backend systems and bots for real-world use
