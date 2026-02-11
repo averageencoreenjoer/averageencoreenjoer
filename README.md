@@ -74,9 +74,6 @@ Working with scalable architectures, async workflows, and clean system design.
   <a href="https://t.me/randomcharsforname">
     <img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=58a6ff" />
   </a>
-  <a href="mailto:qudomibusiness@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" />
-  </a>
 </p>
 
 ---
